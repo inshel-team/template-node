@@ -15,7 +15,6 @@ npm i
 npm run pre-dev {invite}
 rm -rf ./.git
 npm i
-npm run pre-dev {invite}
 ```
 
 ## Development
