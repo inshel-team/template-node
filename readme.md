@@ -23,7 +23,7 @@ npm run pre-dev {invite}
 ### Lambda
 
 Add new file in directory src/contract  
-Subdirectories name is lambda prefix (model.method)
+Subdirectorys name is lambdas prefix (model.method)
 
 ### Tests
 
